@@ -1,11 +1,25 @@
 # Learning C
 
-This repo is a *WIP* guide for those who wish to learn C. Each **chapter** includes its own `README` and corresponding C programs, which must be compiled before they are run. 
+This repo is a *WIP* guide for those who wish to learn C. Each **chapter** includes its own `README` and corresponding C programs, which must be compiled before they are run. Most of the chapters in this guide are my notes while working through [Brian Kernighan and Dennis Ritchie's book _The C Programming Language_](https://en.wikipedia.org/wiki/The_C_Programming_Language). 
 
-If you are on a mac you can use `gcc`: `cd example-directory && gcc example.c` then run `./a.out`
+If you are on a mac you can use `gcc`: `cd example-directory/examples && gcc example.c` then run `./a.out`
 
 ## Chapters
-1. [printf and scanf](https://github.com/jaqarrick/c-info/tree/main/1-printf-scanf)
-2. Variables and Constants in C (WIP)
+1. [Hello World - printf and scanf](https://github.com/jaqarrick/c-info/tree/main/hello-world)
+2. [Operations](https://github.com/jaqarrick/c-info/tree/main/operations)
+3. [Charcter Input and Output](https://github.com/jaqarrick/c-info/tree/main/char-input-output)
+
+#### Bonus Chapters
+- [Assembly and Compiling](https://github.com/jaqarrick/c-info/tree/main/compiling-c)
 
 ***More to come!***
+
+
+
+# Resources
+
+[MIT 6.S096](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/index.htm)
+
+[MIT 6.087](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm)
+
+[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)

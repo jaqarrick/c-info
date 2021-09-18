@@ -17,7 +17,7 @@ int main()
 }
 ```
 
-`printf` can also print out data, which must be defined by a format specifier, which can bee `%d` (integer), `%c` (character), `%s` (string), `%f` (float) `%lf` (double) and `%x` (hexadecimal) variable.
+`printf` can also print out data, which must be defined by a format specifier, which can be `%d` (integer), `%c` (character), `%s` (string), `%f` (float) `%lf` (double) and `%x` (hexadecimal) variable.
 
 For example to print a number, we'd need to adjust our function:
 
