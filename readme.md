@@ -2,7 +2,7 @@
 
 This repo is a *WIP* guide for those who wish to learn C. Each **chapter** includes its own `README` and corresponding C programs, which must be compiled before they are run. Most of the chapters in this guide are my notes while working through [Brian Kernighan and Dennis Ritchie's book _The C Programming Language_](https://en.wikipedia.org/wiki/The_C_Programming_Language). 
 
-If you are on a mac you can use `gcc`: `cd example-directory/examples && gcc example.c` then run `./a.out`
+On most machines you can use the `cc` or `gcc` commands like so: `cd example-directory/examples && gcc example.c` then run `./a.out`
 
 ## Chapters
 1. [Hello World - printf and scanf](https://github.com/jaqarrick/c-info/tree/main/hello-world)
