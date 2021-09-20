@@ -8,6 +8,8 @@ On most machines you can use the `cc` or `gcc` commands like so: `cd example-dir
 1. [Hello World - printf and scanf](https://github.com/jaqarrick/c-info/tree/main/hello-world)
 2. [Operations](https://github.com/jaqarrick/c-info/tree/main/operations)
 3. [Charcter Input and Output](https://github.com/jaqarrick/c-info/tree/main/char-input-output)
+4. [Arrays](https://github.com/jaqarrick/c-info/tree/main/arrays)
+5. [Functions](https://github.com/jaqarrick/c-info/tree/main/functions)
 
 #### Bonus Chapters
 - [Assembly and Compiling](https://github.com/jaqarrick/c-info/tree/main/compiling-c)
