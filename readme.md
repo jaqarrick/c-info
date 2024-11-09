@@ -12,6 +12,7 @@ On most machines you can use the `cc` or `gcc` commands like so: `cd example-dir
 5. [Functions](https://github.com/jaqarrick/c-info/tree/main/functions)
 5. [Pointers](https://github.com/jaqarrick/c-info/tree/main/pointers)
 6. [Structs](https://github.com/jaqarrick/c-info/tree/main/structs)
+7. [Pipes](https://github.com/jaqarrick/c-info/tree/main/pipes)
 
 #### Bonus Chapters
 - [Assembly and Compiling](https://github.com/jaqarrick/c-info/tree/main/compiling-c)
